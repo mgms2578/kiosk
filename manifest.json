@@ -1,0 +1,33 @@
+{
+  "name": "AI 체험 프로그램-키오스크용",
+  "short_name": "AI체험키오스크",
+  "description": "공공 키오스크용 AI 체험 프로그램",
+  "start_url": "./",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#1a1a1a",
+  "orientation": "any",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiBmaWxsPSIjMTIxMjEyIiByeD0iMjQiLz4KPHJlY3QgeD0iNDAiIHk9IjQwIiB3aWR0aD0iMTEyIiBoZWlnaHQ9IjExMiIgZmlsbD0iIzIxOTZGMyIgcng9IjE2Ii8+Cjxwb2x5Z29uIHBvaW50cz0iODAsNzIgMTIwLDk2IDgwLDEyMCIgZmlsbD0iIzEyMTIxMiIvPgo8L3N2Zz4K",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjMTIxMjEyIiByeD0iNjQiLz4KPHJlY3QgeD0iMTA0IiB5PSIxMDQiIHdpZHRoPSIzMDQiIGhlaWdodD0iMzA0IiBmaWxsPSIjMjE5NkYzIiByeD0iNDgiLz4KPHBvbHlnb24gcG9pbnRzPSIyMTYsMTkyIDMyNCwyNTYgMjE2LDMyMCIgZmlsbD0iIzEyMTIxMiIvPgo8L3N2Zz4K",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "ko",
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3MjAiIHZpZXdCb3g9IjAgMCAxMjgwIDcyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjEyODAiIGhlaWdodD0iNzIwIiBmaWxsPSIjMTIxMjEyIi8+Cjx0ZXh0IHg9IjY0MCIgeT0iMzYwIiBmaWxsPSIjMjE5NkYzIiBmb250LXNpemU9IjQ4IiBmb250LWZhbWlseT0iSW50ZXIiIHRleHQtYW5jaG9yPSJtaWRkbGUiPktpb3NrIEFwcDwvdGV4dD4KPC9zdmc+Cg==",
+      "sizes": "1280x720",
+      "type": "image/svg+xml",
+      "form_factor": "wide"
+    }
+  ]
+}
